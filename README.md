@@ -11,6 +11,7 @@ i play a huge part in [rainyware workshop](https://rainyware.rainsounds2.com), a
 ## game development
 i love game development mainly because of the game itself, not really how they're developed so i picked up RPG maker MV when it was on sale in july of 2025 and i'm working on my game, "spis". you can read more and even play the beta version [here](https://github.com/Nametag71/spis)
 
+fun fact: the game "omori" was made in RPG maker MV (with plugins ofc)
 ## computer hardware
 messing with computer hardware is among my favorite activites, whether i'm replacing a part or [building some awful fire hazard contraption to cook pepperonis](https://rainyware.rainsounds2.com/projectpages-pepperonicooker/), it's always fun to do
 
