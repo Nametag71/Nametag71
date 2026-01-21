@@ -21,6 +21,8 @@ my father is a composer for movie trailer type music and so i've been dabbling m
 
 fun fact: the computer my dad used to make music from 2017-2021 is now the server for all the rainyware services and also a NAS
 
+## game console modding/homebrew
+outdated nintendo consoles are peak joose but only when they're modded, if i didn't have my modded 3DS my head would explode twice in a row like it's a magic trick.
 ## networking
 very self explanitory. i do silly network shenanigans all the time and nothing neferious YET (i hope you like saxophone 1) but also VoIP equipment and i hate myself enough to mess with cisco IP phones (if anyone has SCCP or SIP firmware version 7.0.3 for the 7971G, PLEASE contact me). i mainly work with cat 5e/6 and IPv4, i haven't looked into fiber optics and wi-fi is terrifying.
 
